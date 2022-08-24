@@ -1,0 +1,9 @@
+---
+openapi: 3.0.2
+info:
+  title: blah blah
+  version: 1.0.0
+  description: blah blah
+  license:
+    name: GNU AGPLv3
+    url: https://www.gnu.org/licenses/agpl.txt
